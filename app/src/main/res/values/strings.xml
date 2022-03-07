@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Kotlin Choose Language Example</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="next">Next</string>
+    <string name="page">Welcome</string>
+    <string name="shared_pref">klipzpref</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Kotlin Choose Language Example</string>
+    <string name="choose_language">Pilih Bahasa</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="next">Lanjut</string>
+    <string name="page">Selamat Datang</string>
+    <string name="shared_pref">klipzpref</string>
+</resources>
