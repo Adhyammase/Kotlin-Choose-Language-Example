@@ -52,5 +52,4 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
         }
     }
 
-    override fun statusBarColor(): Int = 0
 }

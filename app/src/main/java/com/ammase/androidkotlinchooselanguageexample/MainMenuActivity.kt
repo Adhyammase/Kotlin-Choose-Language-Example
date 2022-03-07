@@ -13,6 +13,5 @@ class MainMenuActivity : BaseActivity<ActivityMainMenuBinding>() {
         return
     }
 
-    override fun statusBarColor(): Int = 0
 
 }

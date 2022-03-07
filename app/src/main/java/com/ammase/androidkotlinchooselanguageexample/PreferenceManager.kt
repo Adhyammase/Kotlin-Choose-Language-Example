@@ -9,8 +9,8 @@ class PreferenceManager private constructor() {
         val instance: PreferenceManager by lazy { Initiate.inst }
     }
 
-    val sharedPref: SharedPreferences = MyApplication.getAppContext().getSharedPreferences(
-        MyApplication.getAppContext().getString(R.string.shared_pref), Context.MODE_PRIVATE
+    val sharedPref: SharedPreferences = MyApp.getAppContext().getSharedPreferences(
+        MyApp.getAppContext().getString(R.string.shared_pref), Context.MODE_PRIVATE
     )
 
     private object Initiate {
